@@ -68,7 +68,7 @@ run-cuda-windows.bat
 -   ffmpeg
 -   visual studio 2022 runtimes (windows)
 #### 2. Clone Repository
-    https://github.com/hacksider/roop-cam.git
+    [https://github.com/hacksider/roop-cam.git](https://github.com/x-xDeaths/roop-cam.git)
 
 #### 3. Install dependency
 We highly recommend to work with a  `venv`  to avoid issues.
